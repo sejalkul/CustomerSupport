@@ -1,0 +1,95 @@
+.form-div{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border-radius: 20px;
+background: white;
+box-shadow: 5px 4px 4px 0px rgba(0, 0, 0, 0.25);
+width: 1000px;
+height: 1200px;
+flex-shrink: 0;
+margin-left: 150px;
+padding: 20px;
+}
+.form-img{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+label{
+    float: left;
+    font-weight: 500;
+}
+.form-group {
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 22px;
+border: 1px solid #C7F609;
+  }
+  
+  .form-group label {
+    margin-left: 8px;
+  }
+p{
+font-size: 10px;
+}
+.btn3{
+    margin-top: 18px;
+    margin-left: 450px;
+    background-color: #C7F609;
+    border-radius: 40px;
+    width: 150px;
+    height: 50px;
+    color: #000;
+  font-size: 18px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  border: none;
+  }
+  .btn2{
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 150px;
+    height: 50px;
+    color: #000;
+  font-size: 18px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  border: none;
+  border-radius: 40px;
+  border: 1px solid #C7F609;
+  background: #FFF;
+  }
+  
+  .form-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  
+
+  .form-container .form-group p {
+    margin-left: 10px;
+  }
+
+  .form-container .btn-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .page2{
+background-image: linear-gradient(to bottom right,white 30%, #C7F609 100%);
+ }
+button{
+    border:1px white;
+    float: left;
+    margin-left: 150px;
+    background-color: transparent;
+}
